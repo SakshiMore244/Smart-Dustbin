@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 
 me = "raspi.iot33@gmail.com"
 my_password = r"raspberryPi33"
-you = "shriyamudras@gmail.com"
+you = "sakshimore244@gmail.com"
 
 msg = MIMEMultipart('alternative')
 msg['Subject'] = "Hello"
